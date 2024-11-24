@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u+YA5omo7paKHVNww1ASr/Q/+n7Dq9aFacj8sdbvt0s=",
+  "Source": "SUSCloudTask",
+  "BasePath": "_content/SUSCloudTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

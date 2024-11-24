@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|c:\\users\\mohmaed shaaban\\desktop\\suscloudtask\\suscloudtask\\suscloudtask\\helpers\\dategreaterthanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|solutionrelative:suscloudtask\\helpers\\dategreaterthanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|c:\\users\\mohmaed shaaban\\desktop\\suscloudtask\\suscloudtask\\suscloudtask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|solutionrelative:suscloudtask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|c:\\users\\mohmaed shaaban\\desktop\\suscloudtask\\suscloudtask\\suscloudtask\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|solutionrelative:suscloudtask\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|c:\\users\\mohmaed shaaban\\desktop\\suscloudtask\\suscloudtask\\suscloudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|solutionrelative:suscloudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|c:\\users\\mohmaed shaaban\\desktop\\suscloudtask\\suscloudtask\\suscloudtask\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D38C855-E13F-432B-9FF2-E17EF471C60E}|SUSCloudTask\\SUSCloudTask.csproj|solutionrelative:suscloudtask\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateGreaterThanAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\Helpers\\DateGreaterThanAttribute.cs",
+              "RelativeDocumentMoniker": "SUSCloudTask\\Helpers\\DateGreaterThanAttribute.cs",
+              "ToolTip": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\Helpers\\DateGreaterThanAttribute.cs",
+              "RelativeToolTip": "SUSCloudTask\\Helpers\\DateGreaterThanAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:47:28.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "SUSCloudTask\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "SUSCloudTask\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:46:43.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\Program.cs",
+              "RelativeDocumentMoniker": "SUSCloudTask\\Program.cs",
+              "ToolTip": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\Program.cs",
+              "RelativeToolTip": "SUSCloudTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:57:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "SUSCloudTask\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "SUSCloudTask\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:48:44.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SUSCloudTask\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\MOHMAED SHAABAN\\Desktop\\SUSCloudTask\\SUSCloudTask\\SUSCloudTask\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SUSCloudTask\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:06:07.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
