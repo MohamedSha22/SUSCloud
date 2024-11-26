@@ -1,4 +1,4 @@
--- 1: Create the Database
+-- Step 1: Create the Database
 CREATE DATABASE SUSCloud
 ON
 (
@@ -18,8 +18,11 @@ LOG ON
 );
 GO
 
+-- Step 2: Use the Created Database
+USE SUSCloud;
+GO
 
--- 2: Create Encryption Keys
+-- Step 3: Create Encryption Keys
 -- Create Master Key
 CREATE MASTER KEY ENCRYPTION BY PASSWORD = 'SUSCloud148';
 GO
@@ -35,8 +38,8 @@ WITH ALGORITHM = AES_256
 ENCRYPTION BY CERTIFICATE EmployeeCertificate;
 GO
 
--- 3: Create Tables
---  Employees
+-- Step 4: Create Master and Detail Tables
+-- Master Table: Employees
 CREATE TABLE Employees (
     EmployeeID INT IDENTITY(1,1) PRIMARY KEY,
     Name VARBINARY(MAX), -- Encrypted field
@@ -47,7 +50,7 @@ CREATE TABLE Employees (
 );
 GO
 
---  EmployeeDetails
+-- Detail Table: EmployeeDetails
 CREATE TABLE EmployeeDetails (
     DetailID INT IDENTITY(1,1) PRIMARY KEY,
     EmployeeID INT NOT NULL,
@@ -59,7 +62,7 @@ CREATE TABLE EmployeeDetails (
 );
 GO
 
--- 4: Insert Data
+-- Step 5: Insert Data with Encryption
 BEGIN TRANSACTION;
 
 BEGIN TRY
@@ -97,7 +100,7 @@ BEGIN CATCH
 END CATCH;
 GO
 
---5: Retrieve Data 
+-- Step 6: Retrieve Data with Decryption
 OPEN SYMMETRIC KEY EmployeeSymmetricKey
 DECRYPTION BY CERTIFICATE EmployeeCertificate;
 
@@ -118,7 +121,7 @@ LEFT JOIN EmployeeDetails ed ON e.EmployeeID = ed.EmployeeID;
 CLOSE SYMMETRIC KEY EmployeeSymmetricKey;
 GO
 
--- 6: Update Data
+-- Step 7: Update Data with Encryption
 BEGIN TRANSACTION;
 
 BEGIN TRY
@@ -152,7 +155,7 @@ BEGIN CATCH
 END CATCH;
 GO
 
--- 7: Delete Data
+-- Step 8: Delete Data with Transaction
 BEGIN TRANSACTION;
 
 BEGIN TRY
